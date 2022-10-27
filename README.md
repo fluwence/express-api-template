@@ -1,4 +1,4 @@
-# Fletify ExpressJS API Template
+# ExpressJS API Template
 
 ## FEATURES
 
@@ -16,4 +16,4 @@
 - Use with [MongoDB](https://www.mongodb.com)
 
 
-### Made with ❤ by [@snehasishxd](https://github.com/snehasishxd)
+### Made with ❤ by [@snehasishcodes](https://github.com/snehasishcodes) for [Fluwence](https://github.com/fluwence)
