@@ -9,17 +9,17 @@
     "http-errors": "^2.0.0",
     "mongoose": "^6.4.2",
     "morgan": "^1.10.0",
-    "nodemailer": "^6.7.7",
+    "nodemailer": "^6.7.7"
   },
-  "name": "expressjs-api-template-fletify",
-  "version": "1.0.0",
+  "name": "xtfz-backend",
+  "version": "2022.12.09",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["fletify"],
-  "author": "fletify",
+  "keywords": ["xtfz", "backend"],
+  "author": "xtfz",
   "license": "ISC",
-  "description": "An ExpressJS API Template for NodeJS, with get and post requests router + file based routing",
+  "description": "Backend for XTFZ"
 }

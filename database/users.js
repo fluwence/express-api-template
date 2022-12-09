@@ -4,4 +4,4 @@ const schema = new mongoose.Schema({
   
 });
 
-module.exports = mongoose.model('schema', schema);
+module.exports = mongoose.model('users', schema);
